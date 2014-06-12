@@ -1,3 +1,4 @@
+#Eliminates the punctuation from a text file
 filename = r'essays.txt'
 import string 
 
