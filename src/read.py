@@ -1,4 +1,5 @@
 #counts the number of words in a text file
+#hi how are you
 filename = r'essays.txt'
 
 
