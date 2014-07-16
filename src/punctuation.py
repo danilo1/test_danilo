@@ -9,5 +9,5 @@ txtfile= open ("output.txt", 'w')
 
 for line in textfile:
 	out = line.translate(string.maketrans("",""), string.punctuation)
-	txtfile.write(x)
-txt.close()
+	txtfile.write(out)
+txtfile.close()
